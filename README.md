@@ -23,7 +23,7 @@
 ## 简单安装
 
 ``` bash
-bash < <(curl -Ls https://raw.githubusercontent.com/enxier/crack-soga/main/install.sh)
+bash < <(curl -Ls https://github.com/Adorablenew-c/sogo/blob/main/install.sh)
 ```
 
 ## Docker安装
